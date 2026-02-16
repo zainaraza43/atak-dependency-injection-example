@@ -1,35 +1,39 @@
-(Plugin Name)
-
+ATAK Dependency Injection Example
 
 _________________________________________________________________
 PURPOSE AND CAPABILITIES
 
-(General Description)
+Showing the use of Koin-core in an ATAK plugin for DI
 
 
 _________________________________________________________________
 STATUS
 
-(In Progress?  Expected release?  Released?  To Who?  When?)
+Released
 
 _________________________________________________________________
 POINT OF CONTACTS
 
-(Who is developing this)
+Zain Raza
 
 _________________________________________________________________
 PORTS REQUIRED
 
-(This is important for ATO, networking, and other security concerns)
+N/A
 
 _________________________________________________________________
 EQUIPMENT REQUIRED
 
+N/A
 _________________________________________________________________
 EQUIPMENT SUPPORTED
+
+N/A
 
 _________________________________________________________________
 COMPILATION
 
+N/A
 _________________________________________________________________
 DEVELOPER NOTES
+
