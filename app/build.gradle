@@ -292,7 +292,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: '*.jar')
     implementation 'androidx.core:core-ktx:1.17.0'
 
-    // Koin for Android
+    // Koin for ATAK
     implementation 'io.insert-koin:koin-core:4.1.1'
 }
 
